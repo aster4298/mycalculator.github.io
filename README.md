@@ -1,5 +1,8 @@
 # mycalculator.github.io
  
+Disclaimer: This project is made with the help of Tutorial Link Given below and also I Change some features and UI . 
+
+
 A Sleek , modern €neumorphic Calculator designed with HTML, CSS and Javascript . Neumorphic blends and flat design principles giving the calculator a soft , 3D - Like apperance while maintaining a minimalist aesthetic.
 
 Features:
